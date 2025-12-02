@@ -1,4 +1,4 @@
-%%writefile climate_ai_agent.py
+
 """
 climate_ai_agent.py
 
